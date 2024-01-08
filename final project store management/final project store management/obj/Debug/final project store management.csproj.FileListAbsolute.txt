@@ -1,0 +1,27 @@
+E:\workshop\Final Project\final 2.0\final project store management\final project store management\bin\Debug\final project store management.exe.config
+E:\workshop\Final Project\final 2.0\final project store management\final project store management\bin\Debug\final project store management.exe
+E:\workshop\Final Project\final 2.0\final project store management\final project store management\bin\Debug\final project store management.pdb
+E:\workshop\Final Project\final 2.0\final project store management\final project store management\bin\Debug\MaterialSkin.dll
+E:\workshop\Final Project\final 2.0\final project store management\final project store management\bin\Debug\MetroFramework.Design.dll
+E:\workshop\Final Project\final 2.0\final project store management\final project store management\bin\Debug\MetroFramework.dll
+E:\workshop\Final Project\final 2.0\final project store management\final project store management\bin\Debug\MetroFramework.Fonts.dll
+E:\workshop\Final Project\final 2.0\final project store management\final project store management\bin\Debug\System.Data.SqlClient.dll
+E:\workshop\Final Project\final 2.0\final project store management\final project store management\bin\Debug\System.Data.SqlClient.xml
+E:\workshop\Final Project\final 2.0\final project store management\final project store management\obj\Debug\final project store management.csproj.AssemblyReference.cache
+E:\workshop\Final Project\final 2.0\final project store management\final project store management\obj\Debug\final_project_store_management.Form1.resources
+E:\workshop\Final Project\final 2.0\final project store management\final project store management\obj\Debug\final_project_store_management.Properties.Resources.resources
+E:\workshop\Final Project\final 2.0\final project store management\final project store management\obj\Debug\final project store management.csproj.GenerateResource.cache
+E:\workshop\Final Project\final 2.0\final project store management\final project store management\obj\Debug\final project store management.csproj.CoreCompileInputs.cache
+E:\workshop\Final Project\final 2.0\final project store management\final project store management\obj\Debug\final project store management.csproj.CopyComplete
+E:\workshop\Final Project\final 2.0\final project store management\final project store management\obj\Debug\final project store management.exe
+E:\workshop\Final Project\final 2.0\final project store management\final project store management\obj\Debug\final project store management.pdb
+E:\workshop\Final Project\final 2.0\final project store management\final project store management\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+E:\workshop\Final Project\final 2.0\final project store management\final project store management\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\workshop\Final Project\final 2.0\final project store management\final project store management\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+E:\workshop\Final Project\final 2.0\final project store management\final project store management\bin\Debug\Bunifu.Licensing.dll
+E:\workshop\Final Project\final 2.0\final project store management\final project store management\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\workshop\Final Project\final 2.0\final project store management\final project store management\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+E:\workshop\Final Project\final 2.0\final project store management\final project store management\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+E:\workshop\Final Project\final 2.0\final project store management\final project store management\obj\Debug\final project store management.exe.licenses
+E:\workshop\Final Project\final 2.0\final project store management\final project store management\obj\Debug\final_project_store_management.Admin_Page.resources
+E:\workshop\Final Project\final 2.0\final project store management\final project store management\obj\Debug\final_project_store_management.Cashier_page.resources
